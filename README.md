@@ -17,7 +17,7 @@ A concise analysis of Disney and Netflix stock prices using correlation and regr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Disney-Netflix-Stock-Analysis.git
+   git clone git clone https://github.com/shoaibahmed4/Disney-Netflix-Stock-Analysis.git
    ```
 2. Install dependencies:
    ```bash
